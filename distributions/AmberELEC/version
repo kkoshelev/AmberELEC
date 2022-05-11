@@ -1,5 +1,5 @@
 # VERSION: set full version, use "devel" for development version
-  LIBREELEC_VERSION="20220503-kk"
+  LIBREELEC_VERSION="20220510-kk"
 
 # OS_VERSION: OS Version
   OS_VERSION="2021.01"
